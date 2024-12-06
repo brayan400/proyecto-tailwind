@@ -1,6 +1,8 @@
 # Integrantes
 Brayan rodriguez.
+
 Gustavo Cabrera.
+
 Bladimir Contreras.
 
 # tecnologías
