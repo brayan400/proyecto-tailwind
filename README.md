@@ -1,7 +1,7 @@
 # Integrantes
-Brayan rodriguez
-Gustavo Cabrera
-Bladimir Contreras
+Brayan rodriguez.
+Gustavo Cabrera.
+Bladimir Contreras.
 
 # tecnologías
 ![icons8-figura-64](https://github.com/user-attachments/assets/8be71cc6-6d32-4c3f-bb1d-26afc13857ae)
